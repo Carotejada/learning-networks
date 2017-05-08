@@ -21,7 +21,7 @@ NOT OKAY
 
 ## Club Logo
 
-(3) **Logo**. We welcome you to [use this template to create a logo](https://sabby.makes.org/thimble/NzYxNzkwOTc2/mozilla-clubs-wordmark) for your club that incorporates the “Mozilla Clubs” wordmark. Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the [Mozilla Trademark Policy](https://www.mozilla.org/en-US/foundation/trademarks/policy/), and these guidelines do not give you additional permissions to use those or other Mozilla logos such as the Firefox logo. 
+(3) **Logo**. We are udating our branding to Mozilla's new logo, so we hope to release a new template for cubs anyday now. Standalone uses of the “Mozilla” and “Mozilla Clubs” wordmarks are limited to what is permitted under the [Mozilla Trademark Policy](https://www.mozilla.org/en-US/foundation/trademarks/policy/), and these guidelines do not give you additional permissions to use those or other Mozilla logos such as the Firefox logo. 
 
 ## Club Website
 
@@ -39,7 +39,7 @@ NOT OKAY
 
 ## Club focus; change in purpose or termination
 
-(9) **Mission and Termination of club**. Your club must align with the [goals and structure of Mozilla Clubs](http://mozilla.github.io/learning-networks/clubs/) and the Mozilla Clubs Network. If at any time you should change the focus of your club, or stop running your club altogether, you must also stop any and all uses of the Mozilla brand related to Mozilla Clubs, including Mozilla and Mozilla Clubs marks in your logo; your domain name, which you may not use for other purposes; and any materials on your website or elsewhere that suggest an association with Mozilla Clubs, except as may be otherwise permitted in the [Mozilla Trademark Policy](https://www.mozilla.org/en-US/foundation/trademarks/policy/). You are, however, permitted to retain Mozilla branding that is compliant with these guidelines on any archived materials from your club that you may wish to maintain, including the domain name if you continue to host an archived site.
+(9) **Mission and Termination of club**. Your club must align with the goals and structure of Mozilla Clubs and the Mozilla Clubs Network. If at any time you should change the focus of your club, or stop running your club altogether, you must also stop any and all uses of the Mozilla brand related to Mozilla Clubs, including Mozilla and Mozilla Clubs marks in your logo; your domain name, which you may not use for other purposes; and any materials on your website or elsewhere that suggest an association with Mozilla Clubs, except as may be otherwise permitted in the [Mozilla Trademark Policy](https://www.mozilla.org/en-US/foundation/trademarks/policy/). You are, however, permitted to retain Mozilla branding that is compliant with these guidelines on any archived materials from your club that you may wish to maintain, including the domain name if you continue to host an archived site.
 
 (10) **Other than as permitted here, you may not**:
 * Alter our trademarks and logos in any way.
