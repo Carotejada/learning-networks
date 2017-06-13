@@ -2,7 +2,6 @@
 
 *"First comes aesthetics, then logic".* That's what writer Daniel Tammet afirms, and that is the reason behind this tool. Here you'll find resources to shape your Club's image and make it appealing!
 
-![Imgur](http://i.imgur.com/w8HJCH8.gif)
 
 ## 1. Name your club
 
@@ -21,18 +20,23 @@ We welcome you to use this template to create a logo or use this file that incor
 
 <iframe width="760" height="345" src="https://thimbleprojects.org/carotejada/272301/"></iframe>
 
-###This is another sub heading
+### Thypography
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis.
+Zilla is our core brand identity display typeface. We use it for our wordmark, for headlines and throughout our design. Zilla is an open source font and is available to [download](https://github.com/mozilla/zilla-slab/tree/master/OTF_release%20files).
 
-* [This is a link](http://example.com)
-* [This is another link](http://example.com)
+### Color palette
+
+Mozilla’s main brand colors are black and white. This illustrates our gutsy personality and provides a bold aesthetic to our brand. And our secondary palette is made up of 9 colors — 6 pastels and 3 neons. These colors are used interchangeably to provide contrast and brightness to our bold black and white main color scheme. See palette [here](https://mozilla.ninja/visualelements/).
+
+### Some images
+
+Find some inspiration in our [gallery](https://mozilla.ninja/gallery/).
 
 
-##Another heading
+## 3. Create YOUR Club's website
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis.
+Domain names. You may use the name of your club, which may include the Mozilla name, in the domain name for any website you create for your club. For any other uses of the Mozilla name in your domain name, please file an application for a license to use a domain name related to a Mozilla trademark.
 
-## And one last one
+(5) Websites. The front page of your website (above the fold) must inform users that “[CLUB NAME] is part of the network of Mozilla Clubs inspired by the Mozilla Learning Network.” At the top of the site’s main page, it should be stated clearly and explicitly that this is a community site, maintained by a group of volunteers.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis.
+![Imgur](http://i.imgur.com/w8HJCH8.gif)
